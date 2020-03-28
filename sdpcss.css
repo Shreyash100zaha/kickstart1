@@ -6,6 +6,15 @@ h5 {
 width: 100%;
 }
 
+@media (max-width: 640px){
+
+
+.card {
+    width: 12rem;
+    }
+}
+
+
 .footer {
 	text-align: center;
     background-color: #323232;
